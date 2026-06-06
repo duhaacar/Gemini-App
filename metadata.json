@@ -1,0 +1,6 @@
+{
+  "name": "DUHACELL Sketchbook",
+  "description": "An interactive digital sketchbook with a high-contrast theme, custom brushes, mobile touch support, and canvas features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
